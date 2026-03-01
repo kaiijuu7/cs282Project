@@ -119,6 +119,177 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &187906367
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.794
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.84999806
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.0967865
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6983168
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7157889
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 91.416
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-corner-small
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+--- !u!1001 &213631327
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.52
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9383882
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.02
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6679872
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.74417275
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -96.176
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-straight-skew-right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8b32433cbcedb41d092ffe2317800e85, type: 3}
+--- !u!1001 &249389952
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.778912
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8499993
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.168692
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.71249807
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7016741
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -89.123
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-straight
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
 --- !u!1 &303637180
 GameObject:
   m_ObjectHideFlags: 0
@@ -495,6 +666,120 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!1001 &566851475
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.5164385
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.86700654
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.8408413
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.75763506
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.023544183
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6519107
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.021146886
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.464
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -81.436
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -3.597
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-straight-bump-up
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0340ebdfded4b4a0dab9d9e896530da8, type: 3}
+--- !u!1001 &739956238
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.954
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8499993
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.05074
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999076
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.013595309
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 1.558
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-straight (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -544,6 +829,348 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &927715349
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.26
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8499971
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09299922
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.72334784
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6904839
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -87.337
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-corner-large
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 034b673f4e5f04950b28be2f28ee2ba4, type: 3}
+--- !u!1001 &1183138978
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.07
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8499993
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.058
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9998916
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.014727331
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 1.688
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-straight (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+--- !u!1001 &1645316916
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.79
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8499993
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.097
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7132789
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7008804
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.995
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-straight (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 55c887a355cf34be9a68c2ccdc75b8e9, type: 3}
+--- !u!1001 &1705526470
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.2656512
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8499989
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09226501
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.69182813
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7220623
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 92.45
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-corner-small (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+--- !u!1001 &1947248099
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.53
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9383883
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.48
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7087132
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.70549685
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 89.739
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-straight-skew-left
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0f54aff0fcda04c35b2168ad987511a7, type: 3}
+--- !u!1001 &2008445550
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.556
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.85
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.2358284
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.72272825
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69113237
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -87.44
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
+      propertyPath: m_Name
+      value: coaster-steel-corner-small (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff5b4994a7bf64c51abc2c0ad25909cd, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -552,3 +1179,14 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 303637184}
+  - {fileID: 249389952}
+  - {fileID: 1645316916}
+  - {fileID: 187906367}
+  - {fileID: 739956238}
+  - {fileID: 1183138978}
+  - {fileID: 927715349}
+  - {fileID: 1705526470}
+  - {fileID: 566851475}
+  - {fileID: 1947248099}
+  - {fileID: 213631327}
+  - {fileID: 2008445550}
